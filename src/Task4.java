@@ -37,5 +37,6 @@ public class Task4{
         System.out.println("the sum of numbers is "+ total);
 
 
+
     }
 }
