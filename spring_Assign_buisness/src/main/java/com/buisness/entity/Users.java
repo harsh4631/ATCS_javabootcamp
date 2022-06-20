@@ -1,5 +1,7 @@
 package com.buisness.entity;
 
+
+
 import java.math.BigInteger;
 
 import javax.persistence.Column;
@@ -14,7 +16,7 @@ import javax.persistence.Table;
 public class Users {
 
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
+	
 	@Column
 	private BigInteger id;
 	
